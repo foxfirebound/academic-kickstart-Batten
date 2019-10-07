@@ -13,7 +13,7 @@ superuser: true
 role: Professor, Student, and Author
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Central Florida, Eastern Florida State Colege
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,7 +23,7 @@ interests:
 - Piano
 - Digital Media
 - Videogames
-
+- My wonderful wife and our pets
 education:
   courses:
   - course: PhD Text and Technology
@@ -44,15 +44,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: Facebook
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://facebook.com/DoloresBatten
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/doloresbatten
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Dolores Batten is an Adjunct Professor at Eastern Florida State College. His research interests include literature, critical theory, digital media, and cultural and feminist studies. She is the Essays Editor for Plath Profiles and a current PhD Candidate at the University of Central Florida.
+Dolores Batten is an Adjunct Professor at Eastern Florida State College. Her research interests include literature, critical theory, digital media, and cultural and feminist studies. She is the Essays Editor for the Academic Journal Plath Profiles and a current PhD Candidate at the University of Central Florida.
