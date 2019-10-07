@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor EFSC Student UCF Author
-
+role: Professor, Student, and Author
 # Organizations/Affiliations
 organizations:
 - name: Stanford University
