@@ -13,7 +13,7 @@ superuser: true
 role: Professor, Student, and Author
 # Organizations/Affiliations
 organizations:
-- name: University of Central Florida, Eastern Florida State Colege
+- name: University of Central Florida, Eastern Florida State College
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
