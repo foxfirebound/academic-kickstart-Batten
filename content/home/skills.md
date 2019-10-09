@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "Office Suite"
-  icon_pack = "fab"
-  name = "Office Skills"
+  icon = "zotero"
+  icon_pack = "ai"
+  name = "Zotero"
   description = "100%"
 
 [[feature]]
