@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true
 weight = 90  # Order that this section will appear.
 
-title = ""The Female Helix of Paradox and Identity Within the Mirrored Imagery of The Bell Jar""
+title = "The Female Helix of Paradox and Identity Within the Mirrored Imagery of The Bell Jar"
 subtitle = ""
 
 [content]
