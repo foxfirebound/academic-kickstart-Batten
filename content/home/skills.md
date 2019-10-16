@@ -14,22 +14,22 @@ subtitle = ""
 #
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
+[[Zotero]]
   icon = "zotero"
   icon_pack = "ai"
   name = "Zotero"
-  description = "100%"
+  description = "Used frequently with Academic Publication"
 
-[[feature]]
-  icon = "Adobe In-Design"
+[[Adobe In Design]]
+  icon = "Adobe In Design"
   icon_pack = "fas"
   name = "Graphic Design"
-  description = "100%"  
+  description = "Used during Magazine Layout and Design"  
 
-[[feature]]
+[[Educational Software]]
   icon = "OJS, Canvas, Eduphoria, Blackboard, Moodle"
-  icon_pack = "Educational Software"
-  name = "Photography"
-  description = "100%"
+  icon_pack = "Education"
+  name = "Educational Software"
+  description = "Software Applications for Education"
 
 +++
