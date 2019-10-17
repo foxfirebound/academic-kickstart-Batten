@@ -17,7 +17,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include music, writing, literature, and critical theory.
+bio: Dolores Batten is an Adjunct Professor at Eastern Florida State College. Her research interests include literature, critical theory, digital media, and cultural and feminist studies. She is the Essays Editor for the Academic Journal Plath Profiles and a current PhD Candidate at the University of Central Florida.
 
 interests:
 - Piano
